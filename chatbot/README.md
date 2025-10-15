@@ -7,6 +7,8 @@ An AI-powered medical assistance chatbot that predicts diseases based on symptom
 - **Disease Prediction**: Predicts potential diseases based on input symptoms using machine learning
 - **Iterative Symptom Collection**: 🆕 Intelligently asks for more symptoms until confidence reaches >50%
 - **Smart Symptom Suggestions**: 🆕 Suggests relevant symptoms based on possible diagnoses
+- **Interactive Symptoms Sidebar**: 🆕 Browse and click from 130+ available symptoms
+- **Real-time Search**: 🆕 Filter symptoms instantly with search functionality
 - **Symptom Analysis**: Recognizes and normalizes medical symptoms with fuzzy matching
 - **Severity Assessment**: Calculates severity scores for symptoms to determine urgency
 - **Confidence Scoring**: Shows confidence levels for each prediction with visual indicators

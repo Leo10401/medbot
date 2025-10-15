@@ -29,7 +29,8 @@ python chatbot.py
 
 **1. Enter Initial Symptoms:**
 ```
-Type in the text box: "fever, cough"
+Option A: Type in the text box: "fever, cough"
+Option B: Click symptoms from the sidebar on the right →
 Click: "🔍 Analyze Symptoms"
 ```
 
@@ -177,17 +178,24 @@ Use: "stomach pain" or "abdominal pain"
 
 ## 💡 Smart Features
 
-### 1. Symptom Suggestions
+### 1. Symptoms Sidebar (Web Only)
+- Browse 130+ available symptoms
+- Real-time search functionality
+- One-click to add symptoms
+- Highlights active symptoms
+- No typing needed!
+
+### 2. Symptom Suggestions
 - AI analyzes top 3 possible diseases
 - Suggests only relevant symptoms
 - Avoids suggesting what you already said
 
-### 2. User Control
+### 3. User Control
 - Can skip iteration anytime
 - "Show Possible Diseases Anyway" button
 - Can start over with new symptoms
 
-### 3. Progressive Refinement
+### 4. Progressive Refinement
 - Each iteration improves accuracy
 - Can add symptoms multiple times
 - Stops automatically at 50%+ confidence
